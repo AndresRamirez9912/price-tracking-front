@@ -1,0 +1,7 @@
+{
+  "name": "price-tracking-front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
